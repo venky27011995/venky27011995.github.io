@@ -19,7 +19,7 @@ header {
     display: flex !important;
     justify-content: center;
     align-items: center;
-    padding: 50px 15px 15px 15px;
+    padding: 30px 15px 15px 15px;
 }
 header input{
     width: 100%;
@@ -48,9 +48,9 @@ main {
     color: #fff;
 }
 .current .temp{
-    color: #fff;font-size: 102px;font-weight: 700;
+    color: #fff;font-size: 70px;font-weight: 700;
     text-shadow: 2px 8px rgba(0, 0, 0, 0.3);
-    margin: 20px 0;
+    margin: 0px 0;
 }
 .current .weather {
     color: #fff;
